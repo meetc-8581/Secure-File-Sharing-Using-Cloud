@@ -91,7 +91,7 @@ successfully and contents can be seen by the receiver. The Web application also 
 register a new user and provide them with unique private key. Then web application will show
 the public key of the newly added user in the list of users. 
 ### Example 
-#### 1) This is our original file that sender wants to submit
+#### 1) This is our original file that sender wants to submit.
   <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/1.png"/>
 #### 2) This is where we will encrypt our file with 2 keys.
   <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/2.png"/>
