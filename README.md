@@ -94,25 +94,25 @@ the public key of the newly added user in the list of users.
 #### 1) This is our original file that sender wants to submit.
   <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/1.png"></img>
 #### 2) This is where we will encrypt our file with 2 keys.
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/2.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/2.png"></img>
 #### 3) This is the content of encrypted file. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/3.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/3.png"></img>
 #### 4) This is the home screen of our web application. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/4.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/4.png"></img>
 #### 5) This is Where user can upload the encrypted file. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/5.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/5.png"></img>
 #### 6) The screen after the uploading a file is done.
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/6.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/6.png"></img>
 #### 7) List of all the encrypted files which can be downloaded. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/7.png"/> 
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/7.png"></img>
 #### 8) List of public keys of registered users. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/8.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/8.png"></img>
 #### 9) Then the download file can be decrypted using the receiver’s private key and sender’s public key. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/9.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/9.png"></img>
 #### 10) This is where a user can register. 
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/10.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/10.png"></img>
 #### 11)  Final screen after registration of new user.  
-  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/11.png"/>
+  <img src="https://github.com/meetc-8581/Secure-File-Sharing-Using-Cloud-/blob/main/Images/11.png"></img>
 
 ## Summary 
 
